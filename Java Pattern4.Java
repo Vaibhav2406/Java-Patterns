@@ -6,6 +6,8 @@ public class Pattern4
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);
+        
+        //Pattern Code//
          
         System.out.println("How many rows you want in this pattern?");
          
